@@ -1,1 +1,1 @@
-[![Revocalize AI](revocalize-ai-voice-models.png)](https://www.revocalize.ai)
+[![Revocalize AI]([revocalize-ai-voice-models.png](https://raw.githubusercontent.com/Revocalize/.github/b4a0c624ad9ae6067389b80bb6fc861d90ecc62a/profile/revocalize-ai-voice-models.png))](https://www.revocalize.ai)
